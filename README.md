@@ -19,6 +19,9 @@ The luminosity of the Sun will steadily increase, resulting in a rise in the sol
 
 The telescope is the greatest instrument used by scientists in the past, which helps NASA to achieve its discoveries so far.but, we need artificial intelligence in order to create a robot to replace astronauts to avoid any human losses. This robot contains sensors that help it find the appropriate planet
 
+![image](https://github.com/01222628865/tasneem/assets/145404477/7651d97e-8e64-4ef3-92b0-5f42ed4e5ba5)
+
+
 
 ## Data sources and AI methods
 i collect it by myself
